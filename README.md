@@ -107,7 +107,8 @@ Pick and Place Simulation:
 
 
 Pick:
-![image](https://github.com/VIJAYKUMAR22007124/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/119657657/9c707e10-6952-43de-892f-02451ee4b4d6)
+![image](https://github.com/VIJAYKUMAR22007124/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/119657657/66a45e31-762c-4e5e-a0ba-3f9b93554e5a)
+
 
 
 Place:
